@@ -1,5 +1,7 @@
 package provaGit;
 
 public class SecondaClasse {
-	//si
+	public SecondaClasse() {
+		
+	}
 }
