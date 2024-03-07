@@ -1,7 +1,7 @@
 package provaGit;
 
 /*
- * A comment
+ * A big comment
  * */
 
 public class MainClass {
